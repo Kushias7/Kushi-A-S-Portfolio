@@ -3,7 +3,9 @@
 
 kushi-portfolio
 Live link: [https://kushias7.github.io/kushi-portfolio](https://github.com/Kushias7/Kushi-A-S-Portfolio)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushi%20A%20S-blue)](https://linkedin.com/in/kushias-sdet)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-Kushias7-black)](https://github.com/Kushias7)
 
 ---
@@ -36,7 +38,8 @@ Showcasing projects, skills, resume, and GitHub activity in a single page.
 
 ## 📄 Resume
 Resume embedded on the portfolio page.  
-You can also [download it here](./Resume.pdf).
+You can also - [Download it here](https://github.com/Kushias7/Kushi-A-S-Portfolio/raw/main/SDET-1%20Resume_Kushi%20.A%20S.pdf)
+).
 
 ---
 
