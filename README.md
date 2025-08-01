@@ -1,24 +1,54 @@
-# Kushi-A-S-Portfolio
+
+# Kushi A S – Portfolio
 
 kushi-portfolio
-Live link: https://kushias7.github.io/kushi-portfolio
+Live link: [https://kushias7.github.io/kushi-portfolio](https://github.com/Kushias7/Kushi-A-S-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushi%20A%20S-blue)](https://linkedin.com/in/kushias-sdet)  
+[![GitHub](https://img.shields.io/badge/GitHub-Kushias7-black)](https://github.com/Kushias7)
 
-## About
-SDET with 1+ years’ experience in test automation (UI & API) using Selenium, TestNG, and Robot Framework. Skilled in CI/CD (Jenkins, GitHub Actions) and building scalable frameworks to accelerate release cycles and boost coverage.
+---
 
-## Featured Projects
+## 👋 About Me
+I’m **Kushi A S**, a Software Development Engineer in Test (SDET) specializing in:
+- **Automation Frameworks:** Selenium, TestNG, Robot Framework  
+- **API Testing:** REST Assured, Postman  
+- **CI/CD & DevOps:** Jenkins, GitHub Actions, Docker, Kubernetes  
+- **Programming:** Java, Python  
+
+Passionate about **scalable test automation**, **CI/CD pipelines**, and **driving quality at scale**.
+
+---
+
+## 🚀 Live Portfolio
+**[View My Portfolio](https://kushias7.github.io/kushi-portfolio)**  
+Showcasing projects, skills, resume, and GitHub activity in a single page.
+
+---
+
+## 📂 Featured Projects
 - **API Test Automation Dashboard**  
-  Visualizes API test results (pass/fail, response time) using Flask + React. Integrated into CI/CD for real-time reporting.  
-  [View GitHub Repo](https://github.com/Kushias7/api-test-dashboard)
+  Visualizes API test metrics with Flask + React; integrated into CI/CD for real-time reporting.
 
 - **Web UI Automation Framework**  
-  Java + Selenium + TestNG framework with cross-browser execution and custom reports. Reduced regression cycles by 40%.  
-  [View GitHub Repo](https://github.com/Kushias7/selenium-dashboard)
+  Java + Selenium + TestNG framework for cross-browser tests, reducing regression cycle time by 40%.
 
-## Resume
-[Download Resume](./assets/resume.pdf)
+---
 
-## Contact
-- [LinkedIn](https://linkedin.com/in/kushias-sdet)  
-- [GitHub](https://github.com/Kushias7)  
-- Email: kuhias69l@gmail.com
+## 📄 Resume
+Resume embedded on the portfolio page.  
+You can also [download it here](./assets/resume.pdf).
+
+---
+
+## 🛠 Setup & Deployment
+1. Upload files to your `kushi-portfolio` repository.  
+2. Add your **resume.pdf** to `/assets`.  
+3. Go to **Settings → Pages → Source: main branch / root** → Save.  
+4. Live at: `https://kushias7.github.io/kushi-portfolio`
+
+---
+
+## 📬 Contact
+- **Email:** kuhias69l@gmail.com  
+- **LinkedIn:** [linkedin.com/in/kushias-sdet](https://linkedin.com/in/kushias-sdet)  
+- **GitHub:** [github.com/Kushias7](https://github.com/Kushias7)
