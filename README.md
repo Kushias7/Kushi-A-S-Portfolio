@@ -1,6 +1,7 @@
 # Kushi-A-S-Portfolio
 
-Live Portfolio: [https://kushias7.github.io/kushi-portfolio](https://kushias7.github.io/kushi-portfolio)
+kushi-portfolio
+Live link: https://kushias7.github.io/kushi-portfolio
 
 ## About
 SDET with 1+ years’ experience in test automation (UI & API) using Selenium, TestNG, and Robot Framework. Skilled in CI/CD (Jenkins, GitHub Actions) and building scalable frameworks to accelerate release cycles and boost coverage.
