@@ -36,7 +36,7 @@ Showcasing projects, skills, resume, and GitHub activity in a single page.
 
 ## 📄 Resume
 Resume embedded on the portfolio page.  
-You can also [download it here](./assets/resume.pdf).
+You can also [download it here](./Resume.pdf).
 
 ---
 
