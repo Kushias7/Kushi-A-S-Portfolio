@@ -1,7 +1,5 @@
 # Kushi-A-S-Portfolio
 
-# Kushi A S – Portfolio
-
 Live Portfolio: [https://kushias7.github.io/kushi-portfolio](https://kushias7.github.io/kushi-portfolio)
 
 ## About
