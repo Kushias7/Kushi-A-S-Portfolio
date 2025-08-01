@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  margin: 0.3rem;
+  border-radius: 6px;
+  text-decoration: none;
+  background: #0073b1;
+  color: white;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+.btn:hover { background: #005580; }
+
+/* Skills grid */
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+.skills-grid span {
+  background: #e4f1fb;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+/* Project cards */
+.project-card {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Dark mode */
+body.dark-mode {
+  background: #121212;
+  color: #e4e4e4;
+}
+body.dark-mode .btn { background: #29a3ef; }
+
+/* Dark mode toggle button */
+#dark-mode-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  padding: 0.5rem;
+  background: #0073b1;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+body.dark-mode #dark-mode-toggle { background: #29a3ef; }
